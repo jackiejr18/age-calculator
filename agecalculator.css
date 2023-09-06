@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Nintendo DS';
+	src: url(Fonts/Nintendo-DS-BIOS.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal; 
+}
+
+* {
+	margin: 0;
+	paddong: 0;
+	font-family: 'Nintendo DS';
+	box-sizing: border-box;
+}
